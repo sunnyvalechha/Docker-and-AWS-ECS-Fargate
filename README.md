@@ -38,3 +38,12 @@ apt-get update -y
   systemctl status docker
   
   docker run hello-world
+
+  # AWS ECS 
+
+  ECS is AWS managed container Orchestrator tool like Docker Swarm and Kubernetes
+
+  ![image](https://github.com/sunnyvalechha/Docker-and-AWS-ECS-Fargate/assets/59471885/e97dba34-9c62-4b3d-a346-6c8a9aee1051)
+
+  
+
